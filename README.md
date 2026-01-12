@@ -1,9 +1,9 @@
 ## hi~
 
 i'm jade! i'm a second year student at wentworth institute of technology studying computer science. 
-i'm interested in backend development, data science and machine learning. 
+i'm interested in software engineering and machine learning. 
 
-thanks for paying my github a visit
+thanks for paying my github a visit ^^
 
 currently searching for co-ops/internships for summer 2026! 
 this is where you can reach me:\
